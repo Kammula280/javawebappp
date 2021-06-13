@@ -45,7 +45,7 @@ kind: Service
 metadata:
   name: javawebappservice
 spec:
-  type: LoadBalancer
+  type: ClusterIP
   selector:
     name: javawebapp
   ports:
