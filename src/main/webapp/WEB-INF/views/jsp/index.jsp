@@ -41,7 +41,7 @@
 	<div class="row">
 		<div class="col-md-8">
 			<h2>Ecommerce web application continously integrated. </h2>
-			<h3>Continously deployed</h3>
+			<h3>Continously integrated and deployed</h3>
 		</div>	
 	</div>
 
